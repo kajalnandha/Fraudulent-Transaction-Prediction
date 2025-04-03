@@ -31,23 +31,7 @@ To handle imbalanced data, various strategies were considered:
 ## Conclusion
 This project builds a robust fraud detection model using XGBoost and AUPRC as the evaluation metric. By leveraging decision tree ensembles and handling imbalanced data effectively, the model improves fraud detection accuracy and provides actionable insights to mitigate financial risks.
 
-## Installation & Usage
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-repository/fraud-detection.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the model training script:
-   ```sh
-   python train_model.py
-   ```
-4. Evaluate the model:
-   ```sh
-   python evaluate_model.py
-   ```
+
 
 ## Contributing
 Feel free to fork this repository, submit issues, or create pull requests for improvements.
